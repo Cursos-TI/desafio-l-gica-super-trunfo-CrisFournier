@@ -53,7 +53,7 @@
         printf("AGORA INFORME DADOS PARA A CARTA 2: \nCARTA 2- Digite uma letra (de A a H) que represente o Estado: ");
         scanf("%s", &estadoB);
 
-        printf("CARTA 2-  Digite um Código para seu estado, sendo a letra do Estado, seguida de um número de 01 a 04: ");
+        printf("CARTA 2- Digite um Código para seu estado, sendo a letra do Estado, seguida de um número de 01 a 04: ");
         scanf("%s", &codCarta2);
 
         printf("CARTA 2- Digite o nome da Cidade: ");
